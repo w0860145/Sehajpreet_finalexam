@@ -1,0 +1,28 @@
+.post{
+	font-family: Arial;
+	font-size : 17px;
+	margin: 0px;
+	text-align: center;
+	}
+	.travel{
+	font-family: Arial;
+	color:Purple;
+	font-size : 17px;
+	margin: 0px;
+	text-align: topleft;
+	padding: 0px;
+	}
+	.About{
+	font-family: Arial;
+	color:blue;
+	font-size : 15px;
+	margin: 0px;
+	padding: 0px;
+	}
+	.Contact{
+	font-family: Arial;
+	color:red;
+	font-size : 15px;
+	margin: 0px;
+	padding: 0px;
+	}
